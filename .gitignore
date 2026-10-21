@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/*.log
+data/tunnel.pid
+data/tunnel-*.log
+data/share-url.txt
+tools/
+preview.png
+public-preview.png

@@ -1,0 +1,93 @@
+{
+  "approach": {
+    "summary": "接近一个地方，也可以是着手解决一个问题。",
+    "senses": [
+      {"pos":"n.","zh":"方法；方式；处理问题的思路","en":"A way of dealing with a problem or thinking about something.","examples":[{"en":"We need a different approach to solving this problem.","zh":"我们需要用不同的方法来解决这个问题。"}]},
+      {"pos":"v.","zh":"靠近；接近","en":"To come nearer to someone or something in distance or time.","examples":[{"en":"As the exam approaches, regular revision becomes more important.","zh":"随着考试临近，定期复习变得更加重要。"}]},
+      {"pos":"v.","zh":"着手处理；与……接洽","en":"To begin dealing with a task, or to speak to someone about a request.","examples":[{"en":"She approached the problem from a new perspective.","zh":"她从一个新的角度着手处理这个问题。"}]}
+    ],
+    "collocations":[{"en":"an approach to doing something","zh":"做某事的方法；这里的 to 是介词"},{"en":"adopt / take an approach","zh":"采用一种方法"},{"en":"a practical / systematic approach","zh":"务实的／系统的方法"},{"en":"approach a problem","zh":"着手处理问题；动词后直接接宾语"},{"en":"approach someone for help","zh":"找某人寻求帮助"}],
+    "compare":[{"word":"approach","description":"强调处理问题的总体思路、角度或态度，常用 approach to something / doing something。"},{"word":"method","description":"强调具体、系统、可操作的办法或步骤，常用 method of / for doing something。"},{"word":"way","description":"最通用的“方式、方法”，可用于日常和正式语境，常用 way to do / of doing something。"},{"word":"means","description":"强调达成目的的手段或工具。单复数形式相同，常用 a means of doing something。"}],
+    "tip":"名词：an approach to solving a problem。动词：approach a problem。不要把两种结构混在一起。",
+    "family":["approachable","unapproachable"]
+  },
+  "significant": {
+    "summary":"既可以指“显著的”，也可以指“意味深长的”。",
+    "senses":[{"pos":"adj.","zh":"显著的；重要的；有重大意义的","en":"Large or important enough to have an effect or to be noticed.","examples":[{"en":"The study found a significant difference between the two groups.","zh":"研究发现两组之间存在显著差异。"}]},{"pos":"adj.","zh":"意味深长的；别有含义的","en":"Having a special meaning that may not be obvious to everyone.","examples":[{"en":"She gave him a significant look.","zh":"她意味深长地看了他一眼。"}]}],
+    "collocations":[{"en":"a significant difference / increase","zh":"显著差异／增长"},{"en":"a significant contribution","zh":"重大贡献"},{"en":"statistically significant","zh":"统计学显著的；不自动等于实际影响很大"},{"en":"a significant look","zh":"意味深长的一瞥"}],
+    "compare":[{"word":"significant","description":"强调某事重要、值得注意，或具有特定意义；也用于统计学。"},{"word":"important","description":"最通用的“重要的”，表示值得重视、有价值或影响大。"},{"word":"considerable","description":"强调数量、程度或规模相当大，不等同于统计学上的显著。"}],
+    "tip":"阅读研究材料时，statistically significant 指统计检验层面的显著性；仍需看效应大小来判断实际意义。",
+    "family":["significance","significantly","insignificant"]
+  },
+  "affect": {
+    "summary":"通常作动词：影响；也可指在感情上打动。",
+    "senses":[{"pos":"v.","zh":"影响；使发生变化","en":"To produce a change in someone or something.","examples":[{"en":"Lack of sleep can affect your concentration.","zh":"睡眠不足会影响你的注意力。"}]},{"pos":"v.","zh":"使感动；使悲伤","en":"To move someone emotionally.","examples":[{"en":"They were deeply affected by the news.","zh":"这个消息使他们深受触动。"}]}],
+    "collocations":[{"en":"affect performance / health","zh":"影响表现／健康"},{"en":"be deeply affected by","zh":"受到……的深深触动"},{"en":"adversely affect","zh":"对……产生不利影响"}],
+    "compare":[{"word":"affect","description":"通常是动词，后接受到影响的人或事物：affect the result。心理学中也可作名词，表示情感。"},{"word":"effect","description":"通常是名词，表示结果或影响：have an effect on。作正式动词时意为使发生：effect change。"},{"word":"influence","description":"可作名词或动词，常强调对想法、行为或发展方向的作用。"}],
+    "tip":"先看句子缺动词还是名词：The policy affects us；The policy has an effect on us。",
+    "family":["affected","unaffected"]
+  },
+  "effect": {
+    "summary":"通常作名词“影响、效果”；作动词时意为“使发生”。",
+    "collocations":[{"en":"have an effect on","zh":"对……产生影响"},{"en":"take effect","zh":"生效；开始起作用"},{"en":"in effect","zh":"实际上；有效"},{"en":"effect change","zh":"实现变革（effect 为动词）"}],
+    "compare":[{"word":"effect","description":"名词表示影响、结果；正式动词表示使某事发生。"},{"word":"affect","description":"动词表示对某事物产生影响，通常不表示直接创造某个结果。"},{"word":"impact","description":"常强调明显、强烈的影响，也有撞击之义。"}],
+    "tip":"affect change 是影响变化的过程；effect change 是使变化发生。",
+    "family":["effective","effectively","effectiveness"]
+  },
+  "economic": {
+    "summary":"描述经济、贸易或财富发展，也可表示有利可图。",
+    "collocations":[{"en":"economic growth / development","zh":"经济增长／发展"},{"en":"economic policy / reform","zh":"经济政策／改革"},{"en":"an economic crisis","zh":"经济危机"}],
+    "compare":[{"word":"economic","description":"与经济、贸易和财富有关：economic growth。也可指经营上合算、有利润。"},{"word":"economical","description":"节省金钱、时间或资源，不浪费：an economical car。"},{"word":"financial","description":"与金钱、资金管理或金融有关：financial support。"}],
+    "tip":"“经济增长”用 economic growth；“省油的车”通常用 an economical car。",
+    "family":["economy","economics","economist","economical"]
+  },
+  "efficient": {
+    "summary":"把事情做好，同时少浪费时间、精力或资源。",
+    "collocations":[{"en":"an efficient system","zh":"高效的系统"},{"en":"energy-efficient","zh":"节能的"},{"en":"an efficient use of resources","zh":"高效利用资源"}],
+    "compare":[{"word":"efficient","description":"强调投入与产出的关系，少耗时、少浪费：an efficient worker。"},{"word":"effective","description":"强调是否达到预期效果：an effective treatment。"},{"word":"productive","description":"强调产出多或成果丰富：a productive discussion。"}],
+    "tip":"一个方法可以 effective（有效），却不 efficient（效率高）。先判断句子强调结果还是资源消耗。",
+    "family":["efficiency","efficiently","inefficient"]
+  },
+  "acquire": {
+    "summary":"得到、获得；常用于知识、技能、习惯或资产。",
+    "collocations":[{"en":"acquire knowledge / skills","zh":"获得知识／技能"},{"en":"acquire a habit","zh":"养成习惯"},{"en":"acquire a company","zh":"收购一家公司"}],
+    "compare":[{"word":"acquire","description":"常强调经过学习、经历或一段时间获得，也可指购买或收购。"},{"word":"obtain","description":"较正式，强调得到所需之物，常见于信息、许可或结果。"},{"word":"gain","description":"常指通过努力得到有价值的事物，也可指增加：gain experience / weight。"}],
+    "tip":"“学到技能”可用 acquire skills；“取得许可”常用 obtain permission。具体搭配比孤立记中文义更有用。",
+    "family":["acquisition","acquired"]
+  },
+  "adapt": {
+    "summary":"适应新环境，也可以是改编作品或调整事物。",
+    "collocations":[{"en":"adapt to a new environment","zh":"适应新环境"},{"en":"adapt something for someone","zh":"调整某物以适合某人"},{"en":"be adapted from a novel","zh":"改编自小说"}],
+    "compare":[{"word":"adapt","description":"调整以适应新条件；改编：adapt to change。"},{"word":"adopt","description":"采用方法、政策或态度；收养：adopt a new approach。"},{"word":"adjust","description":"对位置、程度或习惯作调整，往往是较小的改变。"}],
+    "tip":"adapt to a new method 是适应新方法；adopt a new method 是采用新方法。",
+    "family":["adaptation","adaptable","adaptive"]
+  },
+  "abandon": {
+    "summary":"放弃、遗弃；常带有停止继续或不再照顾的意味。",
+    "collocations":[{"en":"abandon a plan / an attempt","zh":"放弃计划／尝试"},{"en":"abandon hope","zh":"放弃希望"},{"en":"an abandoned building","zh":"废弃的建筑"}],
+    "compare":[{"word":"abandon","description":"常强调彻底离开或停止，尤其指遗弃责任对象、放弃计划。"},{"word":"give up","description":"常用短语，可表示停止尝试、戒除习惯、放弃某物。"},{"word":"desert","description":"常强调背弃责任或在需要帮助时离开某人。"}],
+    "tip":"作动词时 abandon 直接接宾语；with abandon 中 abandon 是名词，表示无所顾忌、放纵。",
+    "family":["abandoned","abandonment"]
+  },
+  "assume": {
+    "summary":"未经证实而假定；也可指承担角色或责任。",
+    "collocations":[{"en":"assume that…","zh":"假定……"},{"en":"assume responsibility","zh":"承担责任"},{"en":"assume a role","zh":"担任角色"}],
+    "compare":[{"word":"assume","description":"把某事当作真实，往往尚未核实；也可表示承担。"},{"word":"presume","description":"通常表示依据可能性或已有理由推定，但也可能含冒昧、擅自之意。"},{"word":"suppose","description":"常表示认为、猜想或为讨论而假设，语气和用法较灵活。"}],
+    "tip":"熟词僻义：assume responsibility 不是“假设责任”，而是“承担责任”。",
+    "family":["assumption","assumed"]
+  },
+  "imply": {
+    "summary":"表达者有所暗示；读者或听者据此推断。",
+    "collocations":[{"en":"imply that…","zh":"暗示……"},{"en":"strongly imply","zh":"强烈暗示"},{"en":"an implied meaning","zh":"隐含的意思"}],
+    "compare":[{"word":"imply","description":"说话、文字或事实暗示某种意思：The author implies that…"},{"word":"infer","description":"读者或听者根据证据得出结论：We can infer from the passage that…"},{"word":"suggest","description":"可指暗示、表明某种可能性，也可以指提出建议。"}],
+    "tip":"作者 imply，读者 infer。阅读推断要能回到文中的证据，不能只依赖常识。",
+    "family":["implication","implicit","implicitly"]
+  },
+  "make": {
+    "summary":"从“制作”延伸到“使得、作出、赚取”等多种用法。",
+    "collocations":[{"en":"make a decision / an effort","zh":"作出决定／付出努力"},{"en":"make progress","zh":"取得进步；progress 通常不可数"},{"en":"make someone do something","zh":"使某人做某事；主动语态用不带 to 的不定式"},{"en":"be made to do something","zh":"被迫做某事；被动语态恢复 to"}],
+    "compare":[{"word":"make","description":"常强调创造、制作某种结果：make a cake / a plan。"},{"word":"do","description":"常强调活动、任务或工作本身：do homework / research。"},{"word":"create","description":"强调创造出新的事物，常见于机会、作品或理念。"}],
+    "tip":"They made me wait；I was made to wait。注意使役结构在主动和被动语态中的变化。",
+    "family":["maker","making"]
+  }
+}

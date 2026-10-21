@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#214b3e"><meta name="robots" content="noindex, nofollow"><meta name="description" content="词间 Wordroom：检索英语单词与短语，学习中英义项、常见搭配和近义词辨析。"><title>词间 Wordroom · 让单词有语境</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+<aside class="rail">
+  <a class="brand" href="/" aria-label="词间首页"><span class="brand-mark">w<span>.</span></span><span>词间<small>Wordroom</small></span></a>
+  <p class="rail-label">我的学习空间</p>
+  <nav aria-label="主导航">
+    <button class="nav-item active" data-nav="explore"><span data-icon="search"></span>单词探索<span class="nav-arrow">↗</span></button>
+    <button class="nav-item" data-nav="saved"><span data-icon="bookmark"></span>我的生词本<span id="saved-count" class="count">0</span></button>
+  </nav>
+  <section class="recent-block"><p class="rail-label">最近查过</p><div id="recent"><p class="rail-empty">从一个感兴趣的词开始。</p></div></section>
+  <div class="rail-bottom"><div class="small-book" data-icon="book"></div><p>每天一个词，<br>多看见一种表达。</p><button id="about-button" class="text-button">关于词间 <span>↗</span></button></div>
+</aside>
+<div class="workspace">
+  <header class="topbar"><div><span class="topbar-home" data-icon="book"></span><span class="breadcrumb">学习空间</span><span class="slash">/</span><strong id="page-name">单词探索</strong></div><span class="local-badge"><i></i>内置词典 · 打开即用</span></header>
+  <main>
+    <section class="intro"><div><p class="intro-kicker">写给认真学英语的你</p><h1>把单词，读进语境。</h1><p class="intro-description">从一个词出发，理解它的意思、搭配与细微差别。</p></div><div class="intro-note"><span class="note-line"></span><p>“Words are, of course,<br>the most powerful drug<br>used by mankind.”</p><small>Rudyard Kipling</small></div></section>
+    <section class="search-area" aria-label="单词搜索">
+      <form id="search-form" autocomplete="off"><span data-icon="search"></span><label class="sr-only" for="word-input">搜索英语单词或短语</label><input id="word-input" type="search" placeholder="输入英语单词或短语，如 approach" maxlength="100" aria-autocomplete="list" aria-controls="suggestions" aria-expanded="false"><kbd class="shortcut">/</kbd><button class="primary-button" type="submit">查词 <span data-icon="arrow"></span></button></form>
+      <div id="suggestions" class="suggestions" role="listbox" aria-label="搜索建议" hidden></div>
+      <div class="starter-words"><span>试着查查</span><button data-word="approach">approach</button><button data-word="significant">significant</button><button data-word="affect">affect</button><button data-word="economic">economic</button><span class="dictionary-count" id="dictionary-count">正在连接词典…</span></div>
+    </section>
+    <div id="app-content" aria-busy="true"><div class="loading-panel">正在打开词典…</div></div>
+    <footer><span>词间 Wordroom</span><p>记住一个意思，更要学会一种用法。</p><button class="text-button" id="footer-about">数据与说明</button></footer>
+  </main>
+</div>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<dialog id="about-dialog"><button class="dialog-close icon-button" aria-label="关闭说明" id="close-about">×</button><span class="dialog-eyebrow">关于词间</span><h2>你的词汇学习空间</h2><p>词典、例句、题库来自 explain-vocabulary 技能。检索由网站服务完成，无需安装软件或填写 API 密钥。</p><div id="about-stats"></div><p>“学习笔记”是 AI 辅助整理的补充讲解与原创例句，不是词典原文或官方考试考点。词典辨析只在有对应资料时显示；原始词典文本始终可以展开核对。</p><p>题库来自大英赛，作为词汇巩固材料，不标作考研或四六级真题。收藏与最近查询仅保存在当前浏览器；可以导出生词本留存。</p><p>这是临时分享站点，需要分享者保持电脑开机联网。临时网址改变后，旧网址下的生词本不会自动迁移，请及时导出留存。</p><a href="https://github.com/duruii/english-learning-skills" target="_blank" rel="noreferrer">查看原技能项目 ↗</a></dialog>
+</body>
+</html>
