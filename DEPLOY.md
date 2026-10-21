@@ -20,7 +20,7 @@ Render 会自动注入 `PORT`，应用已经监听 `0.0.0.0` 并使用该端口�
 
 ## 部署包内容
 
-`data/dictionary.sqlite3` 是已经生成的词典索引，约 55 MB；`data/neccs.csv` 是题库。云端启动时不需要安装本机的 explain-vocabulary 技能，也不依赖 `VOCAB_SKILL_DIR`。
+`data/dictionary.sqlite3.part-*` 是为适配 GitHub 单文件限制拆分的词典索引，部署构建命令会先运行 `prepare_deploy.py` 自动合并；`data/neccs.csv` 是题库。云端启动时不需要安装本机的 explain-vocabulary 技能，也不依赖 `VOCAB_SKILL_DIR`。
 
 网站仍保留词典来源说明、补充笔记说明和题库边界说明。词典数据的第三方公开分发权需要由部署者自行确认；上游项目声明 MIT 许可，但这不等同于第三方词典内容获得独立授权。
 

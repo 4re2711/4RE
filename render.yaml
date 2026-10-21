@@ -2,7 +2,7 @@ services:
   - type: web
     name: wordroom
     runtime: python
-    buildCommand: python -m compileall app.py lexicon.py
+    buildCommand: python prepare_deploy.py
     startCommand: python -X utf8 app.py
     healthCheckPath: /api/health
     plan: free
